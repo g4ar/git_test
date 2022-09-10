@@ -1,0 +1,30 @@
+[33mcommit 056e4302fc6c0952843c46b0c954100151f06656[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: g4ar <austinreckard@gmail.com>
+Date:   Sat Sep 10 14:46:08 2022 -0700
+
+    yay it worked, i can now just git commit without
+    needing to add -m, really becoming a developer here
+
+[33mcommit ef0d4750e894dbc834f2f5704782d0a5d184b046[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: g4ar <austinreckard@gmail.com>
+Date:   Sat Sep 10 14:39:14 2022 -0700
+
+    edited hello_world.txt
+
+[33mcommit ffdd2228734762652d219cb96b565a1a76b1ad34[m
+Author: g4ar <austinreckard@gmail.com>
+Date:   Sat Sep 10 14:36:10 2022 -0700
+
+    edit README.md & hello_world.txt
+
+[33mcommit 6be4a43cd33b488486a451577876eed6b6d879c5[m
+Author: g4ar <austinreckard@gmail.com>
+Date:   Sat Sep 10 14:00:40 2022 -0700
+
+    Add hello_world.txt
+
+[33mcommit c9e2ec39470016e015f514fc3ca14211ab3e2f68[m
+Author: g4ar <112787636+g4ar@users.noreply.github.com>
+Date:   Sat Sep 10 12:11:49 2022 -0700
+
+    Initial commit
